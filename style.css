@@ -1,0 +1,36 @@
+body{
+  background-image: url("https://www.pikpng.com/pngl/b/578-5782721_technology-background-white-png-tech-background-image-for.png");
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  margin-top: 40%;}
+#title {
+    background-color: #ffffff;
+    color: black;
+    text-align: center;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+    border-radius: 50%;
+  }
+  .explain {
+background-color: #ffffff;
+color: black;
+text-align: center
+  }
+div {
+    background-color: #ffffff;
+    box-sizing: border-box ;
+    border-style: groove;
+    border-color: black;
+    font-weight: bold;
+    color: black;
+    margin-left: 5%; margin-right: 5%;
+}
+p {
+  text-align: center;
+}
+  @media screen and (max-width: 600px) { body {
+      background-color: lightblue;}}

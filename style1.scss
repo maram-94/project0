@@ -1,0 +1,37 @@
+$myFont:  sans-serif;
+$myColor: black;
+$fontw: bold;
+body {font-family: $myFont;
+    background-image: url("https://www.pikpng.com/pngl/b/578-5782721_technology-background-white-png-tech-background-image-for.png");
+    background-repeat: no-repeat;
+    font-family: sans-serif; margin-top: 40%;
+}
+
+h1{ h2 {
+    color: $myColor;
+    text-align: center;
+}}
+ol {
+    background-color: #ffffff;
+    box-sizing: border-box ;
+    border-style: groove;
+    border-color: black;
+    font-weight: bold;
+    color: $myColor;;
+    margin-left: 20%; margin-right: 20%;
+}
+ul {
+    @extend ol
+}
+p { color: $myColor;
+    text-align: center;
+    font-weight: $fontw;}
+    #intro { text-align: center;}
+    .explain { @extend #intro }
+    img {
+        display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+        border-radius: 30%;
+      }

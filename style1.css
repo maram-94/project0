@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  background-image: url("https://www.pikpng.com/pngl/b/578-5782721_technology-background-white-png-tech-background-image-for.png");
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  margin-top: 40%;
+}
+
+h1 h2 {
+  color: black;
+  text-align: center;
+}
+
+ol, ul {
+  background-color: #ffffff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-style: groove;
+  border-color: black;
+  font-weight: bold;
+  color: black;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+#intro, .explain {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 30%;
+}
+/*# sourceMappingURL=style1.css.map */

@@ -1,0 +1,25 @@
+html {
+    background-image: url("https://www.pikpng.com/pngl/b/578-5782721_technology-background-white-png-tech-background-image-for.png");
+  font-family: sans-serif;
+  }
+  img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  div {
+    background-color: #b3c6ff;
+    box-sizing: border-box ;
+    border-style: ridge;
+    border-color: #ffffff;
+    font-weight: bold;
+    color: #00004d
+}
+#intro {
+    background-color: #ffffff;
+    color: #00004d;
+    text-align: center;
+}
+.explain {
+    background-color: #ffffff;
+    color: #00004d; }
